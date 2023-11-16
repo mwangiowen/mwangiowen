@@ -1,5 +1,7 @@
 <div align="center">
 
+![](https://i.pinimg.com/originals/d0/66/40/d06640939489b863b248706c77a8c8e0.gif)
+
 # 💫 About Me:
 🔬 Currently working on: Developing coding and design skills for a robust portfolio.<br>🤝 Looking to collaborate on: Exciting coding and design projects with companies or individuals.<br>🆘 Looking for help with: Staying consistently motivated and overcoming coding or design challenges.<br>📚 Currently learning: Keeping up with the latest coding and design trends and exploring new technologies.<br>💬 Ask me about: Anything related to coding, design, or project insights.<br>⚡ Fun fact: I'm lazy but leverage intelligence to maintain a clean and efficient workflow.
 
@@ -31,7 +33,5 @@
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mwangiowen) 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
