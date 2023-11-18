@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="https://i.pinimg.com/originals/d0/66/40/d06640939489b863b248706c77a8c8e0.gif" alt="Animated Image" style="max-width: 100%;">
 
 # 💫 About Me:
 🔬 Currently, I'm focused on developing coding and design skills to build a robust portfolio.<br>
