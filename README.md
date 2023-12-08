@@ -21,10 +21,10 @@
  # :)
 <img src="https://i.pinimg.com/originals/57/e3/53/57e353468c03daab4846f3c3418f436f.gif" alt="Animated Image" style="max-width: 100%;">
 
-<!-- # 📊 GitHub Stats:
+ # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwangiowen&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mwangiowen&theme=dark&hide_border=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mwangiowen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mwangiowen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
 ### ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
