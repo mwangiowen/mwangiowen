@@ -1,7 +1,8 @@
 # 💫 About Me:
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Coding%20for%201%20year%20%2B%20;%20Enhancing%20code%20functionality;%20Stay%20unpredictable!&font=Fira%20Code&center=true&width=700&height=45&color=800080&vCenter=true&pause=1000&size=25" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20Coder%20for%20Over%201%20Year%20;%20Improving%20Code%20Functionality;%20Embracing%20Unpredictability!&font=Fira%20Code&center=true&width=700&height=45&color=800080&vCenter=true&pause=1000&size=25" />
 </p>
+
 
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/mwangiowen">Owen Smith</a></h3>
