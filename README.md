@@ -42,8 +42,9 @@
 
 ## 💰 Support Me by Donating
 <a href="https://www.paypal.com/paypalme/owensmith31588">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-blue?style=for-the-badge&logo=paypal&logoColor=white" alt="Buy Me a Coffee">
+  <img src="https://img.shields.io/badge/Support%20via%20PayPal-blue?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
 </a>
+
 
 
 
