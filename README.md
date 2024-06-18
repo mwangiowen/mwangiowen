@@ -3,12 +3,17 @@
 
 ## Hey there, I'm [Owen Smith](https://github.com/mwangiowen)
 
-🔬 Currently, I'm focused on developing coding and design skills to build a robust portfolio.  
-🤝 Open to collaboration on exciting coding and design projects with companies or individuals.  
-🆘 Seeking help with staying consistently motivated and overcoming coding or design challenges.  
-📚 Actively learning and keeping up with the latest coding and design trends, as well as exploring new technologies.  
-💬 Feel free to ask me about anything related to coding, design, or project insights.  
+🤝 Open to collaborating on exciting coding and design projects with companies or individuals.
+
+🆘 Seeking help with staying consistently motivated and overcoming coding or design challenges.
+
+📚 Actively learning and keeping up with the latest coding and design trends, as well as exploring new technologies.
+
+💬 Feel free to ask me about anything related to coding, design, or project insights.
+
 ⚡ Fun fact: I'm lazy but leverage intelligence to maintain a clean and efficient workflow.
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/Owensmith)
