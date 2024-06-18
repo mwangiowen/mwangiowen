@@ -1,4 +1,5 @@
-# 💫 About Me
+# *💫 About Me*
+
 ![Typing Animation](https://readme-typing-svg.demolab.com/?lines=Passionate%20Coder%20for%20Over%201%20Year%20;%20Improving%20Code%20Functionality;%20Embracing%20Unpredictability!&font=Fira%20Code&center=true&width=700&height=45&color=00FF00&vCenter=true&pause=1000&size=25)
 
 ## Hey there, I'm [Owen Smith](https://github.com/mwangiowen)
@@ -12,8 +13,6 @@
 💬 Feel free to ask me about anything related to coding, design, or project insights.
 
 ⚡ Fun fact: I'm lazy but leverage intelligence to maintain a clean and efficient workflow.
-
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/Owensmith)
